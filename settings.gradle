@@ -1,0 +1,2 @@
+rootProject.name = "ChildMonitoringSystem"
+include ':app'
