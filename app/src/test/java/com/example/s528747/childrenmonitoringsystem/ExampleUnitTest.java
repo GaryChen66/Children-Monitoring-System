@@ -1,4 +1,4 @@
-package com.example.childmonitoringsystem;
+package com.example.s528747.childrenmonitoringsystem;
 
 import org.junit.Test;
 
